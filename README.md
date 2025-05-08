@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java FullStack and Angular<br>👯 I’m looking to collaborate on Web Dev and Data Science<br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning Angular and AWS<br>💬 Ask me about Python Django, Kivy, and Data Science<br>⚡ Fun fact: Love Chess
+🔭 I’m currently working on Java FullStack and Angular<br>👯 I’m looking to collaborate on Web Dev and Data Science<br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning Angular, Kafka and AWS<br>💬 Ask me about Java Springboot, microservices<br>⚡ Fun fact: Love Chess
 
 
 ## 🌐 Socials:
